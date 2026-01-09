@@ -111,3 +111,5 @@ client/buildIndex.js
 package-lock.json
 yarn.lock
 yarn-error.log
+
+upload.config.json
